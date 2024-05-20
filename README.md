@@ -4,7 +4,7 @@ This folder contains all the necessary implementation.
 # Dataset
 VeriText Dataset: The VVeriText dataset is a collection of news articles that have been indexed using vector embeddings for efficient search and retrieval. It contains a vast array of articles spanning various topics and sources, providing researchers with a rich corpus for exploration and analysis.
 
-The dataset encompasses news articles from multiple sources, including but not limited to those compiled by the NewsCatcher team and the All the News dataset. 
+The dataset encompasses news articles from multiple sources, including but not limited to those compiled by the WELFake and the All the News dataset. 
 
 
 
